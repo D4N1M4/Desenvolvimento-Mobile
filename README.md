@@ -1,3 +1,3 @@
 # Desenvolvimento-Mobile
 
-Atividade da disciplina de Desenvolvimento Mobile
+Atividades da disciplina de Desenvolvimento Mobile
